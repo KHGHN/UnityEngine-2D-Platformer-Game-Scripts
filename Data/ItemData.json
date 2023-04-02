@@ -1,0 +1,31 @@
+{
+  "items": [
+    {
+      "item_id": 445,
+      "item_name": "소형 체력포션",
+      "item_description": "체력을 20 채워주는 마법의 물약",
+      "item_type": 0,
+      "max_count": 99,
+      "effect": 20,
+      "effectTpye ": 0
+    },
+    {
+      "item_id": 452,
+      "item_name": "중형 체력포션",
+      "item_description": "체력을 50 채워주는 마법의 물약",
+      "item_type": 0,
+      "max_count": 99,
+      "effect": 50,
+      "effectTpye ": 0
+    },
+    {
+      "item_id": 459,
+      "item_name": "대형 체력포션",
+      "item_description": "체력을 90 채워주는 마법의 물약",
+      "item_type": 0,
+      "max_count": 99,
+      "effect": 90,
+      "effectTpye ": 0
+    }
+  ]
+}

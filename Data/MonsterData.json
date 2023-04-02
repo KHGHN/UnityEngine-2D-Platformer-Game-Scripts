@@ -1,0 +1,18 @@
+{
+  "monsterStats": [
+    {
+      "id": 10,
+      "maxHp": 50,
+      "attack": 10,
+      "defense": 5,
+      "exp": 20
+    },
+    {
+      "id": 11,
+      "maxHp": 100,
+      "attack": 20,
+      "defense": 10,
+      "exp": 70
+    }
+  ]
+}
